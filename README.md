@@ -60,11 +60,11 @@ STATUS: Always Exploring New Technologies
 
 \<div align="center">
 
-\<a href="[https://github.com/DeveloperR0nit/NESTRA](https://github.com/DeveloperR0nit/NESTRA)">   \<img src="[https://github-readme-stats.vercel.app/api/pin/?username=DeveloperR0nit&repo=NESTRA&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/pin/?username=DeveloperR0nit\&repo=NESTRA\&theme=tokyonight\&hide_border=true)" /> \</a>
+\<a href="[https://github.com/DeveloperR0nit/NESTRA](https://github.com/DeveloperR0nit/NESTRA)"> \<img src="[https://github-readme-stats.vercel.app/api/pin/?username=DeveloperR0nit&repo=NESTRA&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/pin/?username=DeveloperR0nit\&repo=NESTRA\&theme=tokyonight\&hide_border=true)" /> \</a>
 
-\<a href="[https://github.com/DeveloperR0nit/Wordfall-Game](https://github.com/DeveloperR0nit/Wordfall-Game)">   \<img src="[https://github-readme-stats.vercel.app/api/pin/?username=DeveloperR0nit&repo=Wordfall-Game&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/pin/?username=DeveloperR0nit\&repo=Wordfall-Game\&theme=tokyonight\&hide_border=true)" /> \</a>
+\<a href="[https://github.com/DeveloperR0nit/Wordfall-Game](https://github.com/DeveloperR0nit/Wordfall-Game)"> \<img src="[https://github-readme-stats.vercel.app/api/pin/?username=DeveloperR0nit&repo=Wordfall-Game&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/pin/?username=DeveloperR0nit\&repo=Wordfall-Game\&theme=tokyonight\&hide_border=true)" /> \</a>
 
-\<a href="[https://github.com/DeveloperR0nit/MoviePlaylist](https://github.com/DeveloperR0nit/MoviePlaylist)">   \<img src="[https://github-readme-stats.vercel.app/api/pin/?username=DeveloperR0nit&repo=MoviePlaylist&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/pin/?username=DeveloperR0nit\&repo=MoviePlaylist\&theme=tokyonight\&hide_border=true)" /> \</a>
+\<a href="[https://github.com/DeveloperR0nit/MoviePlaylist](https://github.com/DeveloperR0nit/MoviePlaylist)"> \<img src="[https://github-readme-stats.vercel.app/api/pin/?username=DeveloperR0nit&repo=MoviePlaylist&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/pin/?username=DeveloperR0nit\&repo=MoviePlaylist\&theme=tokyonight\&hide_border=true)" /> \</a>
 
 \</div>
 
@@ -82,9 +82,17 @@ STATUS: Always Exploring New Technologies
 
 ### 💬 CONNECT WITH ME
 
-\<a href="[https://github.com/DeveloperR0nit](https://github.com/DeveloperR0nit)"> \<img src="[https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F7FF](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge\&logo=github\&logoColor=00F7FF)" /> \</a>
+\<a href="[https://github.com/DeveloperR0nit](https://github.com/DeveloperR0nit)">
+\<img src="[https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F7FF](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge\&logo=github\&logoColor=00F7FF)" />
+\</a>
 
 \<br/>\<br/>
+
+\<img src="[https://readme-typing-svg.demolab.com?font=Orbitron&size=16&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!;Let](https://readme-typing-svg.demolab.com?font=Orbitron\&size=16\&duration=3000\&pause=1000\&color=00F7FF\&center=true\&vCenter=true\&width=500\&lines=Thanks+for+visiting+my+profile!;Let)'s+build+something+amazing." />
+
+**「 CODE. CREATE. INNOVATE. 」**
+
+\</div>
 
 \<img src="[https://readme-typing-svg.demolab.com?font=Orbitron&size=16&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!;Let](https://readme-typing-svg.demolab.com?font=Orbitron\&size=16\&duration=3000\&pause=1000\&color=00F7FF\&center=true\&vCenter=true\&width=500\&lines=Thanks+for+visiting+my+profile!;Let)'s+build+something+amazing." />
 
